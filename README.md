@@ -24,13 +24,3 @@ A console-based ATM Simulation developed using Java. This project simulates basi
 - Switch Case
 - Conditional Statements
 
-## How to Run
-
-1. Clone or download the project.
-2. Open the project in Eclipse, IntelliJ IDEA, or VS Code.
-3. Compile the `ATMSimulation.java` file.
-4. Run the program.
-5. Enter the default PIN:
-
-```text
-1234
